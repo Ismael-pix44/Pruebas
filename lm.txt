@@ -1,1 +1,2 @@
 este es un proyecto de prueba para comando git para trabajo colavortivo
+hola soy san
